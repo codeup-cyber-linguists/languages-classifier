@@ -8,3 +8,7 @@ TEST.py
 *.csv
 *.html
 Trendingrepos_files
+
+__pycache__/
+acquire.py
+prepare.py
