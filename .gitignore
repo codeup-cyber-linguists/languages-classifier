@@ -1,13 +1,10 @@
 .ipynb_checkpoints
-
 acquire_news_articles.py
-
 TEST.py
-
 *.xlsx
 *.html
 Trendingrepos_files
-
 __pycache__/
 acquire.py
 prepare.py
+env.py
