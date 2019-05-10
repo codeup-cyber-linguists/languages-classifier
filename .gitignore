@@ -5,7 +5,6 @@ acquire_news_articles.py
 TEST.py
 
 *.xlsx
-*.csv
 *.html
 Trendingrepos_files
 
