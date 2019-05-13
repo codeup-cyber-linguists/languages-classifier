@@ -5,4 +5,4 @@ This is a natural language processing project that predicts the programming lang
 
 ## Google Slide
 
-[Link to the slides here.](https://docs.google.com/)
+[Link to the slides here.](https://docs.google.com/presentation/d/1PXM3frN85wlkBMuLsdfOWXAaGU6LmVFeU1xaY53kwHU/edit?usp=sharing)
